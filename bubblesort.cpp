@@ -88,5 +88,8 @@ int main()
 
   bubblesortarray();
   display();
+
+  system("pause");
+  return 0;
 }
 
